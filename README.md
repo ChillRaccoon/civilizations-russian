@@ -11,4 +11,5 @@
 * Действущий лист администрации - Fgfg, D6ll1r10um, Chill Raccoon - Host
 
 * Список обновлений на будущее,  Main - 1-st
-                   * Dark Xmas - ####UNDERGROUND###
+
+* Dark Xmas - UNDERGROUND
